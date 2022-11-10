@@ -1,0 +1,102 @@
+.sol{
+	background-color:yellowgreen ;
+	font-size: 25px;
+	padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+}
+.no{
+	border: 15px;
+}
+.me{
+	background-color: red;
+	color: black;
+
+}
+.w3{
+	color:indigo;
+}
+.for{
+	color: green;
+	font-size: 40px;
+}
+.w5{
+	background-color: lightgray;
+	color: black;
+	font-size: 35px;
+}
+.non{
+	width: 35%;
+	height: 35PX;
+	padding: 25PX;
+	font-size: 30PX;
+	margin: 0 auto;
+	border: 10px solid black;
+}
+.no,.non,{
+	width: 70%;
+	border: 5px solid black;
+}
+table,th,td{
+	width: 70%;
+	border: 1px solid black;
+	font-size: 20px;
+	text-align: center;
+}
+.w6{
+	font-size: 30px;
+}
+
+.w4{
+	background-color: orange;
+	color: red;
+	font-size: 35px;
+}
+.w7{
+ width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: 25px italic;
+  background-color: yellow;
+}
+.w8{
+	color: indigo;
+	font-size: 25px;
+}	
+.w9{
+	color: orange;
+	font-size: 30px;
+}
+.w10{
+	color: red;
+	font-size: 18px;
+}
+
+.w11{
+ color: green;
+	font-size: 40px;	
+}
+
+.w12{
+	color: green;
+	font-size: 40px
+}
+.w13{
+	color: black;
+	font-size: 20px
+}
+.w14{
+	color: grey;
+	font-size: 20px
+}
+.w15{
+	color: orange;
+	font-size: 20px
+}
+
+.w16{
+	background-color: lightgray;
+	color: black;
+	font-size: 35px;
+}
